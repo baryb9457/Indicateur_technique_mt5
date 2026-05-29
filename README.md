@@ -1,10 +1,11 @@
 # Indicateur_technique_mt5
-C'est un indicateur technique pour  plate-forme de MT5, utiliser pour analyser les marchés financiers
+C'est un indicateur technique sur la plate-forme de MT5, utiliser pour analyser les marchés financiers
 
+<img width="837" height="456" alt="image d&#39;indicateur" src="https://github.com/user-attachments/assets/64ae07a2-e0fb-4713-b4d4-babe1dba6c6e" />
 
 
 //+------------------------------------------------------------------+
-//| Dashboard_Deplacable.//| KAM //+------------------------------------------------------------------+<img width="837" height="456" alt="image d&#39;indicateur" src="https://github.com/user-attachments/assets/64ae07a2-e0fb-4713-b4d4-babe1dba6c6e" />
+//| Dashboard_Deplacable.//| KAM //+------------------------------------------------------------------+
 
 #property copyright "KAM"
 #property link ""
